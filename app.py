@@ -1,5 +1,5 @@
 from openai import OpenAI
-from apikey import api_data 
+from apikey import api_data
 import os
 import speech_recognition as sr # Converts my voice commands to text 
 import pyttsx3 # Read out text output to voice. 
