@@ -15,3 +15,5 @@ openai library,
 speech_recognition library,
 pyttsx3 library,
 webbrowser library.
+
+workflow: Start --> Capture audio command --> Recoginze speech to text --> pass text to chatGpt API --> Receive response --> Convert response to speech --> Readout response --> End
